@@ -2,6 +2,11 @@
 subdomain is the customized azure openai name:
 https://xxx-openai-central-us.openai.azure.com/  => `xxx-openai-central-us` is subdomain
 
+set max screen as default:
+app/store/config.ts
+```
+tightBorder: true
+```
 
 ------
 
