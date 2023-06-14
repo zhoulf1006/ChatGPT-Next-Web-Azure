@@ -1,6 +1,6 @@
 ### Customized settings
 subdomain is the customized azure openai name:
-https://xxx-openai-central-us.openai.azure.com/  => 'xxx-openai-central-us' is subdomain
+https://xxx-openai-central-us.openai.azure.com/  => `xxx-openai-central-us` is subdomain
 
 
 ------
